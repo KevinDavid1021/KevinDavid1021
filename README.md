@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Kevin David 👋
 
-<!--
-**KevinDavid1021/KevinDavid1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Service Manager at H-E-B** and Computer Science major (Software Engineering) building retail tech tools using Java, Python, and C++.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- **Languages:** Java, Python, C++
+- **Tools:** Eclipse · GitHub · MATLAB · Lucidchart · VS Code · Jupyter Notebook
+- **Methodologies:** Agile/Scrum · OOP · Data Analysis & Visualization
+
+---
+
+## 🔭 Featured Projects
+- **Airgead Banking App (C++)** – Investment calculator with UI and compound interest modeling.
+- **Silent Assassin: Shadow’s End (Python)** – Text adventure with stealth mechanics and logic-based navigation.
+- **Fantasy Football Draft Assistant (JavaFX)** – Draft tool with player tracking, bye-week alerts, and save/load functionality.
+
+---
+
+## 🚀 Goals & Growth
+- Transition into H-E-B’s digital division  
+- Earn CompTIA and Agile certifications in the near future  
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: [Your LinkedIn URL]
+- Resume: [Link to polished version or shared resume]
