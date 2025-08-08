@@ -25,5 +25,5 @@
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/kevin-david-18a437379/]
 - Resume: [Link to polished version or shared resume]
