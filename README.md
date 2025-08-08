@@ -26,4 +26,4 @@
 
 ## 📫 Let’s Connect
 - LinkedIn: [https://www.linkedin.com/in/kevin-david-18a437379/]
-- Resume: [Link to polished version or shared resume]
+- Resume: [Resume](https://github.com/KevinDavid1021/KevinDavid1021/blob/main/KDavid_Resume_Polished.docx)
